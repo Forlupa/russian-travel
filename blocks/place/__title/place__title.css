@@ -1,0 +1,31 @@
+.place__title {
+  grid-column: 1/2;
+  grid-row: 1/2;
+  font-weight: 900;
+  font-size: 72px;
+  line-height: 76px;
+  margin: 0;
+  width: 340px;
+  letter-spacing: 1px;
+}
+
+@media screen and (max-width: 1024px) {
+  .place__title {
+    font-weight: 900;
+    font-size: 42px;
+    line-height: 110%;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .place__title {
+    font-weight: 900;
+    font-size: 32px;
+    line-height: 35px;
+    margin-left: 16px;
+  }
+}
+
+.place__title_kosa {
+  width: 320px;
+}
