@@ -14,3 +14,5 @@
 ------
 
 **О проекте:** адаптивная вёрстка по макету Figma
+
+[Вот ссылка] (https://forlupa.github.io/russian-travel/)

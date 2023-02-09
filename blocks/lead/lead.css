@@ -8,21 +8,21 @@
   margin: 0 auto;
 }
 
-@media screen and (max-width: 1280px) {
+@media screen and (max-width: 1279px) {
   .lead {
     width: 928px;
     padding-top: 48px;
   }
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 1023px) {
   .lead {
     width: 100%;
     padding-top: 48px;
   }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 767px) {
   .lead {
     padding-top: 48px;
   }
