@@ -25,5 +25,7 @@
     max-width: calc(320px - 32px);
     flex-direction: column;
     padding-top: 64px;
+    align-self: flex-start;
+    padding-left: 16px;
   }
 }
