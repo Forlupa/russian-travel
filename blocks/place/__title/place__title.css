@@ -5,7 +5,7 @@
   font-size: 72px;
   line-height: 76px;
   margin: 0;
-  width: 340px;
+  max-width: 340px;
 }
 
 @media screen and (max-width: 1023px) {
@@ -20,6 +20,7 @@
     font-size: 32px;
     line-height: 35px;
     margin-left: 16px;
+    width: calc(100% - 16px);
   }
 }
 
