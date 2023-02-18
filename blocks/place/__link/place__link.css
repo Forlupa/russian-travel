@@ -5,6 +5,7 @@
   color: white;
   margin: 0;
   transition: .4s ease-in-out;
+  max-width: fit-content;
 }
 
 .place__link:hover {
